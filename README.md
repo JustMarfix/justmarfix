@@ -28,7 +28,7 @@ Right now I'm studying for my high school diploma, after that I'm going to study
 ### Application Development
 
 - Python
-- C++ (sort of)
+- C#
 
 ### Languages 🌐
 
