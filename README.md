@@ -1,6 +1,6 @@
 # Hi everyone :wave:
 
-I'm a high schooler from Russia, doing some researches about Information Security.
+I'm a high schooler from Russia, doing some researches about Information Security and writing back-end for some apps.
 
 
 <details>
