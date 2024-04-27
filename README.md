@@ -13,7 +13,7 @@ I'm a high schooler from Russia, doing some researches about Information Securit
 
 #### GitHub stats 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=justmarfix&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=justmarfix&show_icons=true&line_height=27&include_all_commits=true&theme=radical" alt="My github stats" />
 </a>  
 
 
