@@ -27,7 +27,7 @@ Right now I'm studying for my high school diploma & working as DevOps intern at 
 
 ### Application Development
 
-— Go
+- Go
 - Python
 - C#
 
