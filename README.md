@@ -5,13 +5,13 @@ I'm a high schooler from Russia, doing some researches about Information Securit
 
 <details>
 <summary>
-  More stuff about me
+  <b>More stuff about me</b>
 </summary>
 
 ## Quick overview
 
 
-#### GitHub stats 
+### GitHub stats 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://stats.justmarfix.ru/?username=justmarfix&show_icons=true&line_height=27&include_all_commits=false&theme=radical" alt="My github stats" />
 </a>  
@@ -19,9 +19,19 @@ I'm a high schooler from Russia, doing some researches about Information Securit
 
 ### What I do
 
-I'm a backend developer and InfoSec specialist.
+I'm a DevOps engineer and InfoSec enthusiast.
 
-Right now I'm studying for my high school diploma & working as DevOps intern at [Yandex](https://yandex.com), after that I'm going to study for a degree in Information Security at [HSE](https://www.hse.ru/en/).
+Right now I'm studying for my high school diploma, after that I'm going to study for a degree in Information Security at [HSE](https://www.hse.ru/en/).
+
+### Work experience
+
+<table>
+<tr>
+    <td><a href="https://yandex.com">Yandex</a></td>
+    <td>DevOps intern</td>
+    <td>Jul, 2024 - Oct, 2024</td>
+</tr>
+</table>
 
 ## My skills 📜
 
