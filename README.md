@@ -1,27 +1,24 @@
-# Hi everyone :wave:
+# Meow :3
 
-I'm a high schooler from Russia, doing some researches about Information Security and writing backend for some apps.
+   ／l、\
+（ﾟ､ ｡７\
+   l、ﾞ~ヽ\
+   じしf_, )ノ
 
+I'm a teenager from Russia, doing InfoSec researches and writing backend.
 
 <details>
 <summary>
-  <b>More stuff about me</b>
+  <b>More about me</b>
 </summary>
 
 ## Quick overview
-
-
-### GitHub stats 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://stats.justmarfix.ru/?username=justmarfix&show_icons=true&line_height=27&include_all_commits=false&theme=radical" alt="My github stats" />
-</a>  
-
 
 ### What I do
 
 I'm a DevOps engineer and InfoSec enthusiast.
 
-Right now I'm studying for my high school diploma, after that I'm going to study for a degree in Information Security at [HSE](https://www.hse.ru/en/).
+Right now I'm studying for my high school diploma. After that, I will be pursuing a degree in Information Security at the [HSE](https://www.hse.ru/en/).
 
 ### Work experience
 
@@ -33,7 +30,12 @@ Right now I'm studying for my high school diploma, after that I'm going to study
 </tr>
 </table>
 
-## My skills 📜
+### GitHub stats 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://stats.justmarfix.ru/?username=justmarfix&show_icons=true&line_height=27&include_all_commits=false&theme=radical" alt="My github stats" />
+</a>  
+
+## My skills
 
 ### Application Development
 
@@ -43,21 +45,21 @@ Right now I'm studying for my high school diploma, after that I'm going to study
 
 ### Information Security
 
-Interested in DFIR & Threat hunting, trying to get some interesting experience while solving some CTFs and participating at local InfoSec events & olympiads.
+Interested in DFIR & Threat hunting, trying to get some interesting experience while solving CTFs and participating at local InfoSec events & olympiads.
 
 ### DevOps
 
-I'm kinda familiar with k8s & Helm. I also have some experience in Linux server administration & maintaining.
+I have experience working with Kubernetes and Helm, as well as building CI/CD pipelines, doing monitoring stuff and Linux server administration & maintaining.
 
-### Languages 🌐
+### Languages
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
-| Russian       | C2 (Native language)                                                      |
+| Russian       | Native                                                                    |
 | English       | B2                                                                        |
 
-## What I'm currently learning 📚
+## What I'm currently learning
 
-Math, InfoSec, cryptography, DevOps stuff.
+Math, InfoSec, Computer Science, DevOps stuff.
 
 </details>
