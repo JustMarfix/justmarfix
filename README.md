@@ -1,9 +1,17 @@
 # Meow :3
 
-   ／l、\
-（ﾟ､ ｡７\
-   l、ﾞ~ヽ\
-   じしf_, )ノ
+```
+ ,_     _
+ |\\_,-~/
+ / _  _ |    ,--.
+(  @  @ )   / ,-'
+ \  _T_/-._( (
+ /         `. \
+|         _  \ |
+ \ \ ,  /      |
+  || |-_\__   /
+ ((_/`(____,-'
+```
 
 I'm a teenager from Russia, doing InfoSec researches and writing backend.
 
