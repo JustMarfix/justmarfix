@@ -36,6 +36,11 @@ Right now I'm studying for my high school diploma. After that, I will be pursuin
     <td>DevOps intern</td>
     <td>Jul, 2024 - Oct, 2024</td>
 </tr>
+ <tr>
+    <td><a href="https://tbank.ru">T-Bank</a></td>
+    <td>AppSec intern</td>
+    <td>Dec, 2024 - Now</td>
+</tr>
 </table>
 
 ### GitHub stats 
