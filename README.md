@@ -1,19 +1,27 @@
-# Meow :3
+# meow :3
 
 ```
- ,_     _
- |\\_,-~/
- / _  _ |    ,--.
-(  @  @ )   / ,-'
- \  _T_/-._( (
- /         `. \
-|         _  \ |
- \ \ ,  /      |
-  || |-_\__   /
- ((_/`(____,-'
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢠⠁⠉⠉⢒⡤⠤⠔⠒⠂⠤⠤⠒⠉⠉⠉⡇⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢸⠀⡠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⢄⠀⡇⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢸⠐⠁⠀⣀⡀⠀⠀⠀⠀⠀⢀⡀⠀⠀⢱⠁⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢀⠃⠀⠀⣿⣷⠆⠀⠀⠀⠀⣿⣷⠆⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠜⡖⠂⠀⠉⠉⠀⣀⣟⣀⠀⠈⠉⠀⠐⣺⠤⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠱⣖⠈⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⡲⠇⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⠦⠤⣀⣀⠀⣀⡀⠤⢔⠊⠀⠀⡠⡀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⠀⠀⠀⠀⠀⠀⠀⠀⠘⡄⠀⠀⡇⢸⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢠⠃⡆⠀⠀⠀⠀⠀⠀⠀⡄⢱⠀⠀⡇⢠⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⣾⠀⠘⡄⠀⠈⡏⠀⠀⡰⠀⠈⡠⠞⢀⡜⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠹⣀⠀⣸⣄⢀⣇⠀⣰⠁⢀⡰⠧⠒⠉⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠁⠈⠉⠈⠉⠁⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
 ```
 
-I'm a teenager from Russia, doing InfoSec researches and writing backend.
+I'm a teenager from Russia, doing InfoSec stuff & trying to find my way through life.
 
 <details>
 <summary>
@@ -24,22 +32,22 @@ I'm a teenager from Russia, doing InfoSec researches and writing backend.
 
 ### What I do
 
-I'm a DevOps engineer and InfoSec enthusiast.
+I'm an AppSec engineer, also interested in DevOps stuff.
 
-Right now I'm studying for my high school diploma. After that, I will be pursuing a degree in Information Security at the [HSE](https://www.hse.ru/en/).
+Right now I'm studying for my high school diploma (almost over yay!). After that, I will be pursuing a bachelor degree in Information Security at the [HSE](https://www.hse.ru/en/).
 
 ### Work experience
 
 <table>
 <tr>
     <td><a href="https://yandex.com">Yandex</a></td>
-    <td>DevOps intern</td>
+    <td>DevOps intern @ NOC</td>
     <td>Jul, 2024 - Oct, 2024</td>
 </tr>
- <tr>
+<tr>
     <td><a href="https://tbank.ru">T-Bank</a></td>
-    <td>AppSec intern</td>
-    <td>Dec, 2024 - Now</td>
+    <td>AppSec intern @ Perimeter</td>
+    <td>Dec, 2024 - Jun, 2025</td>
 </tr>
 </table>
 
@@ -52,9 +60,7 @@ Right now I'm studying for my high school diploma. After that, I will be pursuin
 
 ### Application Development
 
-- Go
-- Python
-- C#
+I love to do things in Rust, also have some quasi-experience in game development in Unity, wrote some (a lot, actually) plugins for a game called `SCP: Secret Laboratory`.
 
 ### Information Security
 
