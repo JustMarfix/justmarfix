@@ -51,7 +51,7 @@ Right now I'm majoring in Information Security at the [HSE](https://www.hse.ru/e
 </tr>
 <tr>
     <td><a href="https://yandex.com">Yandex</a></td>
-    <td>InfoSec intern @ Fintech</td>
+    <td>AppSec intern @ Fintech</td>
     <td>Jun, 2025 - Sep, 2025</td>
 </tr>
 </table>
