@@ -34,7 +34,7 @@ I'm a teenager from Russia, doing InfoSec stuff & trying to find my way through 
 
 I'm an AppSec engineer, also interested in DevOps stuff.
 
-Right now I'm studying for my high school diploma (almost over yay!). After that, I will be pursuing a bachelor degree in Information Security at the [HSE](https://www.hse.ru/en/).
+Right now I'm majoring in Information Security at the [HSE](https://www.hse.ru/en/) & trying to do some silly and fun things with my friends.
 
 ### Work experience
 
@@ -48,6 +48,11 @@ Right now I'm studying for my high school diploma (almost over yay!). After that
     <td><a href="https://tbank.ru">T-Bank</a></td>
     <td>AppSec intern @ Perimeter</td>
     <td>Dec, 2024 - Jun, 2025</td>
+</tr>
+<tr>
+    <td><a href="https://yandex.com">Yandex</a></td>
+    <td>InfoSec intern @ Fintech</td>
+    <td>Jun, 2025 - Sep, 2025</td>
 </tr>
 </table>
 
